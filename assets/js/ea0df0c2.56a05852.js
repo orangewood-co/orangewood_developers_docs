@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkowl_dev_docs=self.webpackChunkowl_dev_docs||[]).push([[756],{9623:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/orangewood_developers_docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

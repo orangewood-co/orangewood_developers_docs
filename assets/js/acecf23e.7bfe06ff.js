@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkowl_dev_docs=self.webpackChunkowl_dev_docs||[]).push([[903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/orangewood_developers_docs/blog","blogTitle":"Blog","authorsListPath":"/orangewood_developers_docs/blog/authors"}')}}]);
