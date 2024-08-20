@@ -23,6 +23,7 @@ const config = {
 
   organizationName: 'orangewood-co', // Usually your GitHub org/user name.
   projectName: 'orangewood_developers_docs', // Usually your repo name.
+  deploymentBranch: 'gh-pages', // Ensure this matches the branch name you created
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
